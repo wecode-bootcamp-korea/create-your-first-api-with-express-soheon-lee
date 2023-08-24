@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": null
+    },
+    {
+      "name": "ping&#38;&#35;45&#59;pong api",
+      "setup": "",
+      "run": "npm run test",
+      "input": "ping",
+      "output": "pong",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     }
   ]
 }
